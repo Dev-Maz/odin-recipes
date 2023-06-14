@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FCEDDA;
+    color: white;
+}
+
+.recipe-menu h1,
+.recipe h1,
+.recipe h2 {
+    font-family: Georgia, serif;
+    font-weight: bold;
+}
+
+.recipe-menu,
+.recipe  {
+    background-color: #EE4E34;
+    text-align: center;
+}
+
+.recipe-menu ul {
+    text-align: left;
+}
+
+.recipe .ingredients,
+.recipe .steps {
+    text-align: left;
+}
